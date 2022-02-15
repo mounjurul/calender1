@@ -1,0 +1,12 @@
+td{
+    padding: 25px 40px;
+    font-size: 25px;
+}
+td:hover{
+    background-color: brown;
+    transition: 2s;
+}
+table{
+    background-color: crimson;
+
+}
